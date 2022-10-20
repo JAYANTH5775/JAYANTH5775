@@ -1,8 +1,10 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Ftags%2Fcoding-gif&psig=AOvVaw08XMNnvjb-VtRlo1Jc0S8b&ust=1666290552811000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLjBzZX27PoCFQAAAAAdAAAAABAE)](https://www.google.com)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm JAYANTH H S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanth5775&label=Profile%20views&color=0e75b6&style=flat" alt="jayanth5775" /> </p>
 

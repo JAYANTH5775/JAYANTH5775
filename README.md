@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **web dev**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/jayanth_75](https://linktr.ee/jayanth_75)
+- 👨‍💻 All of my projects are available at [Medium-Blogs](https://medium.com/@jayanth.h.s.2002jay)
 
 - 📝 I regularly write articles on [https://jayanth5775.github.io/jayweb/](https://jayanth5775.github.io/jayweb/)
 
